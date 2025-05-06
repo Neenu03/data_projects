@@ -1,2 +1,27 @@
-Data analysis on warehouse management.
-Warehouse management using Python Objectives: (i)find the total no: of sales of each size in each country for male. (ii)find the total no: of sales of each size in each country for female. (iii)find the total no: of shoe sales for female in 2014. (iv)find the total no: of shoe sales for "Size (UK)" for female in 2014. (v)find the total no: of shoe sales in "UK" for "Size (UK)" for female in 2014. (vi)find whether month has an impact on female shoe sales in "UK" for "Size (UK)" in 2014. (vii)visualise (vi) using heatmap. (vii)visualize barplot illustrating how demand is distributed across "Size (UK)" female shoes in 2014 in "UK".
+Warehouse Management - Shoe Demand Analysis
+📝 Objective
+The goal of this analysis is to explore shoe demand trends in warehouse sales data. We focus on understanding how demand varies with shoe sizes and across different months, to inform better stocking and inventory strategies.
+
+🔍 Exploratory Data Analysis (EDA)
+Cleaned and explored data containing shoe sales information including sizes, sale price, date, and gender.
+
+Analyzed demand trends by month and shoe size (US).
+
+Identified patterns in seasonal variation and most in-demand sizes.
+
+📊 Key Findings
+🔸 Monthly Demand Trend
+A line plot of total sales per month revealed peak demand periods.
+
+This can help with seasonal inventory planning.
+
+🔸 Shoe Size Popularity
+The top 10 best-selling US sizes were visualized using a bar chart.
+
+Useful for targeted stocking decisions and marketing efforts.
+
+Tools Used
+Python (Pandas, Matplotlib, Seaborn)
+
+Jupyter Notebook
+
